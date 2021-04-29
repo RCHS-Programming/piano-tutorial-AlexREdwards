@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Tue Apr 27 07:39:54 EDT 2021
+#Thu Apr 29 07:34:09 EDT 2021
 class.Crab.superclass=
 editor.fx.0.height=739
 target2.width=80
@@ -59,9 +59,9 @@ target2.typeParameters=
 target1.naviview.expanded=true
 version=3.0.0
 class.Building.superclass=greenfoot.World
-editor.fx.0.y=92
+editor.fx.0.y=117
 target5.editor.width=1044
-editor.fx.0.x=33
+editor.fx.0.x=637
 class.Key.image=white-key.png
 target2.showInterface=false
 class.Flag.superclass=greenfoot.Actor

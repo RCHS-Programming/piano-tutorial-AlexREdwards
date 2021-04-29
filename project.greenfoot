@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Thu Apr 29 07:34:09 EDT 2021
+#Thu Apr 29 07:39:12 EDT 2021
 class.Crab.superclass=
 editor.fx.0.height=739
 target2.width=80
@@ -53,9 +53,9 @@ class.SquareTurtle.superclass=Turtle
 dependency1.to=Key
 target4.editor.x=189
 dependency3.type=UsesDependency
-target6.type=ClassTarget
 target2.height=50
 target2.typeParameters=
+target6.type=ClassTarget
 target1.naviview.expanded=true
 version=3.0.0
 class.Building.superclass=greenfoot.World
@@ -145,8 +145,8 @@ dependency4.to=BlackKey
 target4.editor.width=1044
 target4.name=BlackKey
 readme.y=10
-class.Worm.superclass=
 readme.x=10
+class.Worm.superclass=
 target4.height=50
 readme.height=58
 target1.width=80
